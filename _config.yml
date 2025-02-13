@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HOME"
+title                    : "Ricardo T. Xavier, Ph.D."
 title_separator          : "-"
 name                     : &name "Ricardo T. Xavier"
 description              : &description "Professor & Research in Neuroengineering"
@@ -79,7 +79,7 @@ social:
 
 # Site Author
 author:
-  name             : "Ricardo T. Xavier, Ph.D."
+  name             : "Ricardo Taoni Xavier"
   avatar           : "assets/xavier_photo.jpg"
   bio              : Professor & Research in Neuroengineering
   location         : "São Paulo, Brazil"
