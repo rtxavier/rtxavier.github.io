@@ -11,7 +11,7 @@ title                    : "Ricardo T. Xavier"
 title_separator          : "-"
 name                     : &name "Ricardo T. Xavier"
 description              : &description "Professor & Research in Neuroengineering"
-URL                      : "https://rtxavier.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://rtxavier.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rtxavier/rtxavier.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ social:
 author:
   name             : "Ricardo T. Xavier"
   avatar           : "assets/xavier_photo.jpeg"
-  bio              : Professor & Research in Neuroengineering <br> <br> Research Scientist at University of Campinas, <a style="color: black;" href="https://unicamp.br/">Institute of Computing</a> & <a style="color: black;" href="https://ic.unicamp.br/en/">Institute of Computing (English)</a>
+  bio              : Professor & Research in Neuroengineering
   location         : "São Paulo, Brazil"
   googlescholar    : "https://scholar.google.com/citations?user=S8RBi6IAAAAJ&hl=en&oi=ao"
   email            :
