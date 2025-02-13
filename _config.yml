@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ricardo T. Xavier"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Ricardo T. Xavier"
 description              : &description "Professor & Research in Neuroengineering"
