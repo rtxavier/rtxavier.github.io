@@ -79,8 +79,8 @@ social:
 
 # Site Author
 author:
-  name             : "Ricardo T. Xavier"
-  avatar           : "https://github.com/rtxavier/rtxavier.github.io/blob/master/assets/xavier_photo.jpg"
+  name             : 
+  avatar           : "assets/xavier_photo.jpg"
   bio              : Professor & Research in Neuroengineering
   location         : "São Paulo, Brazil"
   googlescholar    : "https://scholar.google.com/citations?user=S8RBi6IAAAAJ&hl=en&oi=ao"
