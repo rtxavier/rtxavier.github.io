@@ -81,9 +81,9 @@ social:
 author:
   name             : "Ricardo T. Xavier"
   avatar           : "assets/xavier_photo.jpeg"
-  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://datascience.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
+  bio              : "Professor & Research in Neuroengineering <br> <br> Research Scientist at University of Campinas, <a style='color: black;' href='https://unicamp.br/'>Institute of Computing</a> & <a style='color: black;' href='https://ic.unicamp.br/en/'"
   location         : "São Paulo, Brazil"
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=S8RBi6IAAAAJ&hl=en&oi=ao"
   email            :
   bluesky          :
   uri              : 
@@ -99,7 +99,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : "http://orcid.org/0000-0002-4465-8942"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
