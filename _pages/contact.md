@@ -3,9 +3,9 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
-Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things like "stuart geiger email" and get wrong pages on my site. Also, my full name is Richard Stuart Geiger, even though I just go by Stuart. I show up as "Geiger, Richard Stuart" in various administrative databases. Here are some other places on the Internet where I reside.
+Contact information:
 
-* E-mail: stuart [at] stuartgeiger.com
-* Twitter: [staeiou](http://twitter.com/Staeiou)
-* Google Scholar: [author:geiger-r-stuart](http://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en)
-* Wikipedia: [staeiou](http://en.wikipedia.org/wiki/User:Staeiou)
+* E-mail: taoni [at] unicamp.br
+* Twitter: [@rtaoni](https://x.com/rtaoni)
+* Google Scholar: [author: Ricardo Taoni Xavier](https://scholar.google.com/citations?user=S8RBi6IAAAAJ&hl=en)
+* Linkedin: [Ricardo Taoni Xavier, Ph.D.](https://www.linkedin.com/in/rtaoni/)
